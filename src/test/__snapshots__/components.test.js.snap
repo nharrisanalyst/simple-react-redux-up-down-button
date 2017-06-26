@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UpDownButtons/> renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "margin": "10px",
+      "textAlign": "center",
+    }
+  }
+>
+  <button
+    className="button"
+    id="buttonUp"
+    onClick={[Function]}
+    style={
+      Object {
+        "height": "25px",
+        "margin": "5px",
+        "width": "35px",
+      }
+    }
+  >
+    +1
+  </button>
+  0
+  <button
+    className="button"
+    id="buttonDown"
+    onClick={[Function]}
+    style={
+      Object {
+        "height": "25px",
+        "margin": "5px",
+        "width": "35px",
+      }
+    }
+  >
+    -1
+  </button>
+</div>
+`;
